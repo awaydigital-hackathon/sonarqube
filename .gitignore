@@ -1,1 +1,2 @@
 /sonarqube_logs/
+/postgresql_data/pg_stat_tmp
